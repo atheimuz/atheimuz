@@ -2,7 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atheimuz&layout=compact)
 
 <!--내용 부분-->
 <h3>✨ Tech Stack</h3>
@@ -22,7 +22,7 @@
 
 <h3>📫 Contact</h3>
 <div>
-  <a href="mailto:atheimuz@gmail.com">
+  <a href="mailto:atheimuz@naver.com">
     <img
       src="https://img.shields.io/badge/atheimuz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
